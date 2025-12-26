@@ -256,3 +256,4 @@ MIT License - See LICENSE file for details
 ## Contact
 
 Built by Jesse Eldridge - [GitHub](https://github.com/junipr-dev) | [Portfolio](https://itsjesse.dev)
+# Calendar improvements
